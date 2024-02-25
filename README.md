@@ -7,7 +7,7 @@ The Back-end is connected with MySQL Workbench
 * Spring Tool Suit-4 <br>
 * MySQL Workbench-8C.E
 
-# General Features
+# Features
 
 * We can able to see available books in the store with their author names, prices and also we can add them to "my books" section <br>
 * We can edit or delete the existing books in the "books available" section <br>
