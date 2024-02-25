@@ -7,6 +7,14 @@ The Back-end is connected with MySQL Workbench
 Spring Tool Suit-4 |
 MySQL Workbench-8C.E
 
+# General Features
+
+->We can able to see available books in the store with their author names, prices and also we can add them to "my books" section
+->We can edit or delete the existing books in the "books available" section
+->We can add new books into the store through "new book registration" section
+
+
+
 # HOME PAGE 
 
 <img width="960" alt="image" src="https://github.com/Git-Hemanth/BookStore/assets/147172782/498b06f6-b588-4813-91d9-25ff9c3a238a">
