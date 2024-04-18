@@ -3,11 +3,13 @@
 This is a Book Store Management System developed using Spring and BootStrap 5 frameworks.
 The Back-end is connected with MySQL Workbench
 
-# Languages 
+# Languages and Frameworks 
 
-* Spring 
+* Java
+* Spring
 * Bootstrap 5
 * Mysql
+  
 
 # Tools 
 * Spring Tool Suit-4 <br>
